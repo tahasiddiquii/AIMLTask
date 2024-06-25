@@ -1,0 +1,7 @@
+Flask 
+psycopg2-binary 
+google-cloud-speech 
+ffmpeg-python 
+streamlit
+flask_sqlalchemy
+numpy==1.26.4
