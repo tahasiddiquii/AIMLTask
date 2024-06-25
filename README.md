@@ -1,4 +1,4 @@
-# Video Management System for Online Education Platform
+# Video Management System for a task
 
 ## Overview
 This project is a comprehensive video management system designed for an online education platform. It includes functionalities for video uploading, audio extraction, transcription, and metadata storage. The system utilizes Flask for the backend, PostgreSQL for database management, Whisper for transcription, MoviePy for video processing, and Streamlit for the frontend interface.
